@@ -783,7 +783,7 @@
                 <div>
                     <h3 class="footer-heading">Image Tools</h3>
                     <ul class="footer-links">
-                        <li class="footer-link"><a href="">Background Remover</a></li>
+                        <li class="footer-link"><a href="/BGremove.heml">Background Remover</a></li>
                         <li class="footer-link"><a href="image-compressor.html">Image Compressor</a></li>
                         <li class="footer-link"><a href="#">Image Converter</a></li>
                         <li class="footer-link"><a href="#">Watermark Remover</a></li>
